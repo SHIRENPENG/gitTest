@@ -4,3 +4,4 @@ test version
 Modify
 
 branch
+Creating a new branch is quick & simple.
